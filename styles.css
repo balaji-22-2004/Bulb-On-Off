@@ -1,0 +1,71 @@
+.container{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'popping', cursive;
+    background-color: darkgrey;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/021/692/008/non_2x/cartoon-living-room-interior-background-template-cozy-house-apartment-concept-vector.jpg");
+    /*background-image:url("https://img.freepik.com/free-photo/free-photo-black-grunge-abstract-background-pattern-wallpaper_1340-34073.jpg") ;*/
+
+}
+.line{
+    width: 5px;
+    height: 140px;
+    background-color: goldenrod;
+    margin-left: 650px;
+    margin-top: -20px;
+}
+.trapezoid{
+    border-bottom: 50px solid black;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 125px;
+    border-radius: 50px;
+    margin: 0 0 0 210px;
+    margin-left: 570px;
+
+}
+.main-bulb{
+    height: 150px;
+    width: 150px;
+    background-color:darkgrey ;
+    border-radius: 50%;
+    margin: -28px 0 50px 195px;
+    margin-left: 579.5px;
+}
+.buttons{
+    text-align: center;
+}
+.on-button{
+    text-align: center;
+}
+.on-button{
+    margin-left: 567px;
+}
+.on-button,
+.off-button{
+    width: 80px;
+    height: 80px;
+    border: 5px solid black;
+    outline: none;
+    cursor: pointer;
+    background-color: green;
+    font-size: 35px;
+    color: #f1f1f1;
+    border-radius: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
